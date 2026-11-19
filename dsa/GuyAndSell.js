@@ -1,4 +1,4 @@
-/ Your task is to:
+
 // - Buy the stock on one day.
 // - Sell it on a future day.
 // - Get the maximum possible profit.
